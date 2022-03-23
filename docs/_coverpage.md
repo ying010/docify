@@ -9,5 +9,5 @@
 - 项目搭建
 - 学习充能
 
-[GitHub](<https://github.com/ying010/wzy.github.io>)
+[GitHub](<https://github.com/ying010/note>)
 [开始阅读](README.md)
