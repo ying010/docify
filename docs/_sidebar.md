@@ -1,3 +1,5 @@
 - [:octocat: 首页](/md/Index.md)
 - :memo: 目录
-   - 第1章：开发入门
+   - [学习](/md/学习/index.md)
+   - [工作](/md/工作/index.md)
+   - [随笔](/md/随笔/index.md)
